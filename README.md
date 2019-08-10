@@ -1,0 +1,2 @@
+# Payrole3
+Payrole3 is minor project on calculating employee salary from security,worker,assistant,manager,BOSS/CEO including their allocated_holidays,Tax,PF as company want to set and it will give output are presentdays,absentdays,halfdays,allocated holidays,Tax,PF,overday,Total salary &amp; In hand salary based on DA(day allowance) and attendance of 1 month.  input is on command line so run as -> java Payrole3 num   //here num =1:security  2:worker  3:assistant  4:manager  5:CEO
